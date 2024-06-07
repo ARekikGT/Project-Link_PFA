@@ -1,9 +1,9 @@
 # Project-Link_PFA
-#Project-Link
-##Overview
+# Project-Link
+## Overview
 Project-Link is an end-of-year academic project developed at ENET'Com. It is a full-stack application designed to showcase advanced DevSecOps principles and practices. The project emphasizes secure software development, continuous integration, and continuous deployment, ensuring both high performance and robust security measures.
 
-##Features
+## Features
 Full-Stack Development: Utilizes ReactJS for the frontend and NodeJS for the backend.
 Cloud Integration: Implements Firebase for real-time database management and authentication.
 Containerization: Uses Docker for creating, deploying, and running applications in containers.
@@ -17,16 +17,16 @@ Containerization: Docker
 CI/CD: Jenkins
 Security Tools: OWASP Dependency Check, SonarQube
 Developer Tools: VS Code, GitHub, IntelliJ
-##Installation
+## Installation
 Clone the Repository:
 
-##bash
+## bash
 Copier le code
 git clone https://github.com/yourusername/project-link.git
 cd project-link
 Install Dependencies:
 
-##For the backend:
+## For the backend:
 bash
 Copier le code
 cd backend
@@ -36,12 +36,12 @@ bash
 Copier le code
 cd frontend
 npm install
-##Set Up Environment Variables:
+## Set Up Environment Variables:
 
 Create a .env file in the root of the project with your Firebase configuration and other necessary environment variables.
 Run the Application:
 
-##For the backend:
+## For the backend:
 bash
 Copier le code
 npm start
@@ -56,7 +56,7 @@ Contributing
 We welcome contributions to enhance Project-Link. To contribute:
 
 Fork the repository.
-##Create a new branch:
+## Create a new branch:
 bash
 Copier le code
 git checkout -b feature/your-feature-name
@@ -66,13 +66,13 @@ Copier le code
 git commit -m 'Add some feature'
 Push to the branch:
 bash
-##Copier le code
+## Copier le code
 git push origin feature/your-feature-name
 Open a pull request.
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##Contact
+## Contact
 For any inquiries or further information, please contact:
 
 Ahmed Rekik
